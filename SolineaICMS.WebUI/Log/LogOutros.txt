@@ -1,0 +1,46 @@
+20/06/2017 22:10:54 - fabio.souza     - Tentativa de Login
+20/06/2017 22:11:50 - fabio.souza     - Tentativa de Login
+20/06/2017 22:12:24 - fabio.souza     - Tentativa de Login
+20/06/2017 22:13:28 - fabio.souza     - Tentativa de Login
+20/06/2017 22:15:09 - fabio.souza     - Tentativa de Login
+20/06/2017 22:15:13 - fabio.souza     - Erro de Login
+20/06/2017 22:15:30 - fabio.souza     - Tentativa de Login
+20/06/2017 22:15:30 - fabio.souza     - Login
+20/06/2017 22:15:42 - fa              - Tentativa de Login
+20/06/2017 22:15:42 - fa              - Erro de Login
+20/06/2017 23:23:59 - fabio.souza     - Tentativa de Login
+20/06/2017 23:23:59 - fabio.souza     - Login
+21/06/2017 00:07:44 - fabio.souza     - Tentativa de Login
+21/06/2017 00:07:44 - fabio.souza     - Login
+21/06/2017 02:06:28 - fabio.souza     - Tentativa de Login
+21/06/2017 02:06:28 - fabio.souza     - Login
+03/07/2017 21:19:28 - fabio.souza     - Tentativa de Login
+03/07/2017 21:19:30 - fabio.souza     - Login
+03/07/2017 21:22:27 - fabio.souza     - Tentativa de Login
+03/07/2017 21:22:27 - fabio.souza     - Login
+03/07/2017 21:36:35 - fabio.souza     - Tentativa de Login
+03/07/2017 21:36:35 - fabio.souza     - Login
+03/07/2017 21:44:00 - fabio.souza     - Tentativa de Login
+03/07/2017 21:44:00 - fabio.souza     - Login
+03/07/2017 23:22:10 - fabio.souza     - Tentativa de Login
+03/07/2017 23:22:15 - fabio.souza     - Login
+03/07/2017 23:59:49 - fabio.souza     - Tentativa de Login
+03/07/2017 23:59:49 - fabio.souza     - Login
+04/07/2017 00:02:38 - fabio.souza     - Tentativa de Login
+04/07/2017 00:02:38 - fabio.souza     - Login
+04/07/2017 00:03:40 - fabio.souza     - Tentativa de Login
+04/07/2017 00:03:40 - fabio.souza     - Login
+06/07/2017 01:08:10 - fabio.souza     - Tentativa de Login
+06/07/2017 01:08:10 - fabio.souza     - Login
+07/07/2017 09:04:49 - fabio.souza     - Tentativa de Login
+07/07/2017 09:05:45 - fabio.souza     - Tentativa de Login
+07/07/2017 09:06:37 - fabio.souza     - Tentativa de Login
+07/07/2017 09:06:39 - fabio.souza     - Login
+07/07/2017 09:55:40 - fabio.souza     - Tentativa de Login
+07/07/2017 09:55:40 - fabio.souza     - Login
+07/07/2017 16:22:59 - fabio.souza     - Tentativa de Login
+07/07/2017 16:22:59 - fabio.souza     - Login
+07/07/2017 16:44:56 - fabio.souza     - Tentativa de Login
+07/07/2017 16:44:56 - fabio.souza     - Login
+07/07/2017 16:51:13 - fabio.souza     - Tentativa de Login
+07/07/2017 16:51:13 - fabio.souza     - Login

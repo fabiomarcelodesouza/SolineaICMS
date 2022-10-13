@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0C1138B6-D206-4882-B767-A72A8FE08680}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SolineaICMS.VO</RootNamespace>
+    <AssemblyName>SolineaICMS.VO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="voBackup.cs" />
+    <Compile Include="Relatorios\voRelatorioIcmsRestituirResumoNotas.cs" />
+    <Compile Include="Relatorios\voRelatorioIcmsRestituirCustoMedio.cs" />
+    <Compile Include="Relatorios\voRelatorioInconsistenciasEstoque.cs" />
+    <Compile Include="voInconsistenciasEstoque.cs" />
+    <Compile Include="voRegistrosImportadosSaldoEstoque.cs" />
+    <Compile Include="voLoginExistente.cs" />
+    <Compile Include="voBase.cs" />
+    <Compile Include="voConfiguracao.cs" />
+    <Compile Include="voEstado.cs" />
+    <Compile Include="voEstoque.cs" />
+    <Compile Include="voRegistrosImportadosMovimentoEstoque.cs" />
+    <Compile Include="voLog.cs" />
+    <Compile Include="voMovimentoEstoque.cs" />
+    <Compile Include="voNotaFiscalEntrada.cs" />
+    <Compile Include="voNotaFiscalSaida.cs" />
+    <Compile Include="voPessoa.cs" />
+    <Compile Include="voProduto.cs" />
+    <Compile Include="Relatorios\voRelatorioIcmsRestituirPeps.cs" />
+    <Compile Include="voUsuario.cs" />
+    <Compile Include="voVinculaEntradasSaidas.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SolineaICMS.Util\SolineaICMS.Util.csproj">
+      <Project>{42983B49-F613-488E-831E-0FCAA6857AC9}</Project>
+      <Name>SolineaICMS.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

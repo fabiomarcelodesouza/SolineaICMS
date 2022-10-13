@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" enableLocalization="true" >
+  <siteMapNode url="" title="Solinea ICMS"  description="Solinea ICMS" roles="*">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Página Inicial" roles="*">
+    </siteMapNode>
+    <siteMapNode url=""  title="Cadastros"  description="Cadastros" roles="*">
+      <siteMapNode url="~/Estado.aspx" title="Alíquotas de ICMS"  description="Cadastro de Alíquotas de ICMS" roles="*"/>
+      <siteMapNode url="~/Usuario.aspx" title="Usuários"  description="Cadastro de Usuários"  roles="Administradores"/>
+    </siteMapNode>
+    <siteMapNode title="Importação"  description="Importação" roles="*">
+      <siteMapNode url="~/ImportarMovimentoEstoque.aspx" title="Movimentação"  description="Movimentação de Estoque"  roles="*"/>
+      <siteMapNode url="~/ImportarSaldoEstoque.aspx?Acao=VisualizarInconsistencias" title="Saldo Final de Estoque"  description="Saldo Final de Estoque"  roles="*"/>
+      <siteMapNode url="~/ImportarSaldoEstoque.aspx?Acao=CargaInicial" title="Carga Inicial"  description="Carga Inicial"  roles="Masters"/>
+    </siteMapNode>
+    <siteMapNode title="Relatório"  description="Relatórios" roles="*">
+      <siteMapNode url="#" title="ICMS à Restituir"  description="Relatórios de ICMS à Restituir" roles="*">
+        <siteMapNode url="~/Relatorios/RelatorioIcmsRestituir.aspx?MetodoApuracao=Peps" title="Método PEPS"  description="Relatórios de ICMS à Restituir - Método PEPS"  roles="*"/>
+        <siteMapNode url="~/Relatorios/RelatorioIcmsRestituir.aspx?MetodoApuracao=CustoMedio" title="Método Custo Médio"  description="Relatórios de ICMS à Restituir - Método Custo Médio"  roles="*"/>
+      </siteMapNode>
+      <siteMapNode url="~/Relatorios/RelatorioInconsistenciasEstoque.aspx" title="Filtros"  description="Filtros"  roles="*"/>
+    </siteMapNode>
+    <!--<siteMapNode title="Log"  description="Log" roles="Administradores">
+    </siteMapNode>-->
+    <!--<siteMapNode title="Backup"  description="Backup" roles="Administradores">
+      <siteMapNode url="~/BackupEfetuar.aspx" title="Efetuar Backup"  description="Efetuar Backup"  roles="Administradores"/>
+      <siteMapNode url="~/BackupRestaurar.aspx" title="Restaurar Backup"  description="Restaurar Backup"  roles="Administradores"/>
+    </siteMapNode>-->
+    <siteMapNode title="Sobre" url="~/Sobre.aspx"  description="Sobre o Solinea ICMS" roles="*">
+    </siteMapNode>
+    <siteMapNode title="Sair" url="~/Login.aspx"  description="Sair do Solinea ICMS" roles="*">
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

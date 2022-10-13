@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A5A84B4-6D07-49F0-8150-B0A45F5E48F7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SolineaICMS.DAL</RootNamespace>
+    <AssemblyName>SolineaICMS.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dalBackup.cs" />
+    <Compile Include="dalInconsistenciasEstoque.cs" />
+    <Compile Include="dalImportarSaldoEstoque.cs" />
+    <Compile Include="dalRegistrosImportadosSaldoEstoque.cs" />
+    <Compile Include="Relatorios\dalRelatorioInconsistenciasEstoque.cs" />
+    <Compile Include="Relatorios\dalRelatorioIcmsRestituir.cs" />
+    <Compile Include="dalNotaFiscalSaida.cs" />
+    <Compile Include="dalRegistrosImportadosMovimentoEstoque.cs" />
+    <Compile Include="dalEstoque.cs" />
+    <Compile Include="dalNotaFiscalEntrada.cs" />
+    <Compile Include="dalProduto.cs" />
+    <Compile Include="dalPessoa.cs" />
+    <Compile Include="dalImportarMovimentoEstoque.cs" />
+    <Compile Include="dalUsuario.cs" />
+    <Compile Include="dalBase.cs" />
+    <Compile Include="dalEstado.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SolineaICMS.Databases\SolineaICMS.Databases.csproj">
+      <Project>{406B1E9A-03EB-456E-B9BE-693A51A45E53}</Project>
+      <Name>SolineaICMS.Databases</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.Interfaces\SolineaICMS.Interfaces.csproj">
+      <Project>{CE2AEED7-D50E-45FF-BE17-911F668A78E8}</Project>
+      <Name>SolineaICMS.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.Util\SolineaICMS.Util.csproj">
+      <Project>{42983B49-F613-488E-831E-0FCAA6857AC9}</Project>
+      <Name>SolineaICMS.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.VO\SolineaICMS.VO.csproj">
+      <Project>{0C1138B6-D206-4882-B767-A72A8FE08680}</Project>
+      <Name>SolineaICMS.VO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

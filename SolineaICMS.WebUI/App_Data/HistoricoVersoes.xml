@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<versoes name="Histórico de Versões">
+  <versao numero="1.0.0.0" data="09/10/2013">
+    <alteracao titulo="Histórico de Versões">
+      <descricao url="">
+        Criado o Histórico de Versões para a Versão Web
+      </descricao>
+    </alteracao>
+    <alteracao titulo="Ajustes nos Relatórios">
+      <descricao url="">
+        Retirado dos relatórios de ICMS à Restituir - Método PEPS e ICMS à Restituir - Método Custo Médio os campos Código Produto e NCM.
+      </descricao>
+      <descricao url="">
+        Desabilitado o carregamento do relatório ao entrar na página, obrigando o usuário a selecionar um período.
+      </descricao>
+    </alteracao>
+    <alteracao titulo="Correção de Procedure">
+      <descricao url="">
+        Correção da procedure SP_DIVERSOS_VINCULA_ENTRADAS_SAIDAS para não permitir vincular notas de saída com data anterior as notas de entrada.
+      </descricao>
+    </alteracao>
+    <alteracao titulo="CFOP">
+      <descricao url="">
+        Vinculação do CFOP ao item da nota fiscal e não à nota fiscal.
+      </descricao>
+    </alteracao>
+    <alteracao titulo="Inscrição Estadual">
+      <descricao url="">
+        Adicionada importação da Inscrição Estadual.
+      </descricao>
+    </alteracao>
+  </versao>
+</versoes>

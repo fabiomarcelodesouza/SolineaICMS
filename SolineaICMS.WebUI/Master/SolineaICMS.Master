@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SolineaICMS.Master.cs"
+    Inherits="SolineaICMS.WebUI.SiteMaster" %>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>Solinea ICMS</title>
+    <link rel="stylesheet" href="/SolineaICMS_App/Scripts/JQuery/themes/base/jquery.ui.all.css" />
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/jquery-1.7.2.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/jquery.maskedinput-1.1.4.pack.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/external/jquery.bgiframe-2.1.2.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.core.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.widget.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.mouse.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.button.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.draggable.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.position.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/JQuery/ui/jquery.ui.dialog.js"></script>
+    <script type="text/javascript" src="/SolineaICMS_App/Scripts/SolineaICMS.js"></script>
+    <link type="text/css" rel="stylesheet" href="/SolineaICMS_App/Styles/Default.css" />
+    <script language="javascript" type="text/javascript">
+        function fctCliqueBotaoRespostaConfirmacao() {
+            document.getElementById("btnRespostaConfirmacao").click();
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="logo">
+                <h1>
+                    Solinea ICMS
+                </h1>
+            </div>
+            <div class="loginDisplay" id="divSaudacao" runat="server">
+                <p>
+                    Olá <span runat="server" id="spnNomeUsuarioLogado"></span>, seja bem vindo ao Solinea
+                    ICMS!
+                </p>
+                Empresa:
+                <asp:Label ID="lblNomeEmpresa" runat="server" Text="" />
+                - CNPJ:
+                <asp:Label ID="lblCnpjEmpresa" runat="server" Text="" />
+            </div>
+        </div>
+        <div class="clear hideSkiplink" id="divMenu" runat="server">
+            <asp:Menu ID="MenuPrincipal" runat="server" CssClass="menu" EnableViewState="false"
+                IncludeStyleBlock="false" Orientation="Horizontal">
+            </asp:Menu>
+        </div>
+        <asp:SiteMapDataSource ID="SiteMapDataSourceSolineaIcms" runat="server" ShowStartingNode="false" />
+        <div class="content">
+            <fieldset>
+                <legend>
+                    <asp:Label ID="lblLegend" runat="server"></asp:Label>
+                </legend>
+                <table border="0" width="100%">
+                    <tr>
+                        <td align="center" style="width: 2%;">
+                            <img id="imgShadowLeft" src="~/Images/side_shadowleft.jpg" width="20" alt="" runat="server" />
+                        </td>
+                        <td align="left" valign="top" style="width: 96%; padding: 0px 25px 0px 25px;">
+                            <table border="0" width="100%">
+                                <tr>
+                                    <td align="center">
+                                        <asp:UpdateProgress ID="UpdateProgress1" runat="server">
+                                            <ProgressTemplate>
+                                                <asp:Image ID="imgUpdateProgress" ImageUrl="~/Images/ajax-loader.gif" runat="server" />
+                                                <br />
+                                                Em processamento, aguarde...
+                                            </ProgressTemplate>
+                                        </asp:UpdateProgress>
+                                    </td>
+                                </tr>
+                            </table>
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                        </td>
+                        <td align="center" style="width: 2%;">
+                            <img id="imgShadowRight" src="~/Images/side_shadowright.jpg" width="20" alt="" runat="server" />
+                        </td>
+                    </tr>
+                </table>
+                <table>
+                    <tr>
+                        <td>
+                            <asp:Button ID="btnRespostaConfirmacao" CssClass="button" runat="server" Text="RespostaConfirmacao"
+                                Style="display: none;" />
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+            <div id="dialog-confirm">
+                <table width="100%" border="0">
+                    <tr>
+                        <td>
+                            <span style="float: left">
+                                <img id="imageModalMessage" src="" alt="" style="display: none;" />
+                            </span>
+                        </td>
+                        <td>
+                            <span id="modalMessage"></span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="footer">
+        </div>
+    </div>
+    </form>
+</body>
+</html>

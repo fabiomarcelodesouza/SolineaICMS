@@ -1,0 +1,30 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" CssClass="grid" EmptyDataText="Não foram encontrados registros."  
+EmptyDataRowStyle-HorizontalAlign="Center" BorderColor="Gray" BorderStyle="Solid" BorderWidth="1px">
+  <HeaderStyle CssClass="gridHeader" HorizontalAlign="Center" />
+  <RowStyle CssClass="gridRow" HorizontalAlign="Left" />
+  <AlternatingRowStyle CssClass="gridRowAlternate" />
+</asp:GridView>
+
+ <asp:Menu SkinId="mainMenuSkin" runat="server"  BackColor="#F7F6F3"
+    DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="14px" ForeColor="#7C6F57"
+    StaticSubMenuIndent="14px" Orientation="Horizontal">
+    <StaticSelectedStyle BackColor="#5D7B9D" />
+    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+    <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+    <DynamicMenuStyle BackColor="#F7F6F3" />
+    <DynamicSelectedStyle BackColor="#5D7B9D" />
+    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+    <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+</asp:Menu>

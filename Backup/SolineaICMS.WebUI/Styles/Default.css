@@ -1,0 +1,432 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body
+{
+    background-color: #F1F1F1;
+    font-size: .80em;
+    font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+div.page
+{
+    width: 90%;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+div.header
+{
+    background: url(../Images/top_bg.jpg) top center repeat-x;
+    border-bottom: 1px solid #7e7e7e;
+    height: 92px;
+    width: 100%;
+}
+
+div.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.content
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background: transparent url(../Images/menu/menu_m.png) repeat-x scroll 0 0;
+    width: 100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu .level2
+{
+    background-color: #C8CBCD;
+    padding: 5px;
+}
+
+div.menu .level3
+{
+    background-color: #C8CBCD;
+    padding: 5px;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    color: #333;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: "Trebuchet MS" , Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #FF9900;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 0px 15px 10px 15px;
+    border: 1px solid #ccc;
+}
+
+fieldset p
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline
+{
+    display: inline;
+}
+
+legend
+{
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    color: #666666;
+    text-transform: none;
+    font-weight: 400;
+}
+
+input.textEntry
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+.button
+{
+    width: 120px;
+}
+
+input.passwordEntry
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+.grid
+{
+    margin: 0 auto;
+    width: 99%;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+.gridHeader
+{
+    padding: 3px 20px 3px 20px;
+    background-color: #ccffcc;
+    font-weight: bold;
+    color: #353535;
+    border-color: #808080;
+}
+
+.gridRow
+{
+    background-color: #FFFFFF;
+    color: #353535;
+    font-size: 11px;
+}
+
+.gridRow td
+{
+    padding: 0px 20px 0px 20px;
+}
+.gridRowAlternate
+{
+    background-color: #DCDCDC;
+    color: #353535;
+    font-size: 11px;
+}
+
+.gridRowAlternate td
+{
+    padding: 0px 20px 0px 20px;
+}
+
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+div.logo
+{
+    padding: 20px 0 0 0;
+    float: left;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+.loginDisplay a:link
+{
+    color: white;
+}
+
+.loginDisplay a:visited
+{
+    color: white;
+}
+
+.loginDisplay a:hover
+{
+    color: white;
+}
+
+.validator
+{
+    margin: 5px 0px;
+    color: Red;
+}
+
+.validationSummary
+{
+    border: 2px solid red;
+    margin: 5px 0px;
+    color: Red;
+}
+
+.validationSummary ul
+{
+    list-style: square;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+.divFields div
+{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.divFields div label
+{
+    width: 120px;
+    float: left;
+    margin: 2px;
+}
+
+.messageHeader
+{
+    border: 1px solid #4297d7;
+    background: #5c9ccc url(../images/MessageHeader.png) 50% 50% repeat-x;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/*Modal Popup*/
+.modalBackground
+{
+    background-color: Gray;
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+.modalPopup
+{
+    background-color: White;
+    border-width: 3px;
+    border-style: solid;
+    border-color: Gray;
+    padding: 3px;
+    max-width: 450px;
+}
+
+.modalPopup p
+{
+    padding: 5px;
+}
+
+.autocomplete_completionListElement 
+{  
+	margin : 0px!important;	
+	color : WindowText;
+	border : buttonshadow;
+	border-width : 1px;
+	border-style : solid;
+	cursor : 'default';
+	overflow : auto;
+	height : 200px;
+    text-align : left; 
+    list-style-type : none;
+    padding: 5px;
+}
+
+/* AutoComplete highlighted item */
+
+.autocomplete_highlightedListItem
+{
+	background-color: #ffff99;
+	color: black;
+	padding: 1px;
+}
+
+/* AutoComplete item */
+
+.autocomplete_listItem 
+{
+	background-color : window;
+	color : windowtext;
+	padding : 1px;		
+}

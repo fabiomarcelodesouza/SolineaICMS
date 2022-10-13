@@ -1,0 +1,351 @@
+﻿-----------------------------------------16/10/2013 00:44:37 - fabio.souza-----------------------------------------
+16/10/2013 00:44:37 - fabio.souza     - Inicio da importação do movimento de estoque.
+16/10/2013 00:44:37 - fabio.souza     - Registros temporários excluidos.
+16/10/2013 00:44:41 - fabio.souza     - Registros temporários inseridos.
+16/10/2013 00:44:41 - fabio.souza     - Inicio do processamento de movimento de estoque.
+16/10/2013 00:44:50 - fabio.souza     - Ajustes sobrepostos excluídos.
+16/10/2013 00:44:51 - fabio.souza     - Tabela Pessoa atualizada.
+16/10/2013 00:44:51 - fabio.souza     - Tabela Pessoa populada.
+16/10/2013 00:44:51 - fabio.souza     - Tabela Produto populada.
+16/10/2013 00:44:52 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+16/10/2013 00:44:52 - fabio.souza     - Tabela Estoque populada.
+16/10/2013 00:44:53 - fabio.souza     - Tabela NotaFiscalSaida populada.
+16/10/2013 00:44:53 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+16/10/2013 00:46:31 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+16/10/2013 00:46:31 - fabio.souza     - Término dos vinculos de entradas e saídas.
+16/10/2013 00:46:31 - fabio.souza     - Término do processamento.
+-----------------------------------------16/10/2013 00:46:31 - fabio.souza-----------------------------------------
+-----------------------------------------16/10/2013 00:53:39 - FABIO.SOUZA-----------------------------------------
+16/10/2013 00:53:39 - FABIO.SOUZA     - Inicio da importação do movimento de estoque.
+16/10/2013 00:53:39 - FABIO.SOUZA     - Registros temporários excluidos.
+16/10/2013 00:53:43 - FABIO.SOUZA     - Registros temporários inseridos.
+16/10/2013 00:53:43 - FABIO.SOUZA     - Inicio do processamento de movimento de estoque.
+16/10/2013 00:54:03 - FABIO.SOUZA     - Ajustes sobrepostos excluídos.
+16/10/2013 00:54:03 - FABIO.SOUZA     - Tabela Pessoa atualizada.
+16/10/2013 00:54:03 - FABIO.SOUZA     - Tabela Pessoa populada.
+16/10/2013 00:54:04 - FABIO.SOUZA     - Tabela Produto populada.
+16/10/2013 00:54:04 - FABIO.SOUZA     - Tabela NotaFiscalEntrada populada.
+16/10/2013 00:54:04 - FABIO.SOUZA     - Tabela Estoque populada.
+16/10/2013 00:54:04 - FABIO.SOUZA     - Tabela NotaFiscalSaida populada.
+16/10/2013 00:54:04 - FABIO.SOUZA     - Inicio da vinculação das notas fiscais de entrada e saída.
+16/10/2013 00:55:45 - FABIO.SOUZA     - Término da vinculação das notas fiscais de entrada e saída.
+16/10/2013 00:55:45 - FABIO.SOUZA     - Término dos vinculos de entradas e saídas.
+16/10/2013 00:55:45 - FABIO.SOUZA     - Término do processamento.
+-----------------------------------------16/10/2013 00:55:45 - FABIO.SOUZA-----------------------------------------
+-----------------------------------------01/03/2017 19:57:37 - fabio.souza-----------------------------------------
+01/03/2017 19:57:37 - fabio.souza     - Inicio da importação do movimento de estoque.
+01/03/2017 19:57:37 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------03/07/2017 23:55:07 - fabio.souza-----------------------------------------
+03/07/2017 23:55:07 - fabio.souza     - Inicio da importação do movimento de estoque.
+03/07/2017 23:55:07 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------03/07/2017 23:56:27 - fabio.souza-----------------------------------------
+03/07/2017 23:56:28 - fabio.souza     - Inicio da importação do movimento de estoque.
+03/07/2017 23:56:36 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------04/07/2017 00:00:00 - fabio.souza-----------------------------------------
+04/07/2017 00:00:00 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:00:02 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------04/07/2017 00:02:54 - fabio.souza-----------------------------------------
+04/07/2017 00:02:54 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:02:57 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------04/07/2017 00:03:53 - fabio.souza-----------------------------------------
+04/07/2017 00:03:53 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:03:56 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:04:08 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:04:51 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:05:22 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:05:22 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:05:23 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:05:23 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:05:23 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:05:23 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:05:24 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:05:24 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:06:03 - fabio.souza     - Não foi possível vincular o produto 10004165 - VD 1635X1290X855 FX FRENTE RODADO TRAS LE a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 1,0000.
+-----------------------------------------04/07/2017 00:06:03 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:09:13 - fabio.souza-----------------------------------------
+04/07/2017 00:09:13 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:09:14 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:09:16 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:09:16 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:09:42 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:09:42 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:09:42 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:09:42 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:09:43 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:09:43 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:09:43 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:09:43 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:10:23 - fabio.souza     - Não foi possível vincular o produto 10005231 - MANCAL AUX C/ ESGUICHO G6 a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 2,0000.
+-----------------------------------------04/07/2017 00:10:23 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:11:20 - fabio.souza-----------------------------------------
+04/07/2017 00:11:20 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:11:20 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:11:22 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:11:22 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:11:46 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:11:47 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:11:47 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:11:47 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:11:48 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:11:48 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:11:48 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:11:48 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:12:30 - fabio.souza     - Não foi possível vincular o produto 10017492 - MASCARA VALVULADA C/ CARVAO a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 20,0000.
+-----------------------------------------04/07/2017 00:12:30 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:13:02 - fabio.souza-----------------------------------------
+04/07/2017 00:13:02 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:13:02 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:13:05 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:13:06 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:13:32 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:13:32 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:13:32 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:13:33 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:13:33 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:13:33 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:13:33 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:13:33 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:14:45 - fabio.souza     - Não foi possível vincular o produto 10000510 - PEGA-MAO PLASTICO a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 16,0000.
+-----------------------------------------04/07/2017 00:14:45 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:15:31 - fabio.souza-----------------------------------------
+04/07/2017 00:15:31 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:15:31 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:15:34 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:15:34 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:15:56 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:15:56 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:15:56 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:15:56 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:15:56 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:15:57 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:15:57 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:15:57 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:26:14 - fabio.souza     - Não foi possível vincular o produto 10012317 - FLANGE DA SANITARIA DO GV a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 20,0000.
+-----------------------------------------04/07/2017 00:26:14 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:26:44 - fabio.souza-----------------------------------------
+04/07/2017 00:26:44 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:26:44 - fabio.souza     - Registros temporários excluidos.
+-----------------------------------------04/07/2017 00:27:01 - fabio.souza-----------------------------------------
+04/07/2017 00:27:01 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:27:01 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:27:02 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:27:02 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:27:24 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:27:24 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:27:24 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:27:24 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:27:24 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:27:24 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:27:24 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:27:24 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:28:46 - fabio.souza     - Não foi possível vincular o produto 10003563 - P/BRISA INFERIOR INTEIRICO VRD PD 1200/1350 a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 1,0000.
+-----------------------------------------04/07/2017 00:28:46 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:39:21 - fabio.souza-----------------------------------------
+04/07/2017 00:39:21 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:39:21 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:39:22 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:39:22 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:39:28 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:39:28 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:39:28 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:39:28 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:39:28 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:39:28 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:39:28 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:39:28 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:39:43 - fabio.souza     - Não foi possível vincular o produto 10020731 - TINTAS AB TURISMO a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 1,0000.
+-----------------------------------------04/07/2017 00:39:43 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:46:56 - fabio.souza-----------------------------------------
+04/07/2017 00:46:56 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:46:56 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:46:58 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:46:58 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:47:16 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:47:16 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:47:16 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:47:16 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:47:16 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:47:16 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:47:16 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:47:16 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:50:49 - fabio.souza     - Não foi possível vincular o produto 10017492 - MASCARA VALVULADA C/ CARVAO a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 20,0000.
+-----------------------------------------04/07/2017 00:50:49 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:51:39 - fabio.souza-----------------------------------------
+04/07/2017 00:51:39 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:51:39 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:51:41 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:51:41 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:51:58 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:51:58 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:51:58 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:51:58 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:51:58 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:51:58 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:51:59 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:51:59 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:52:51 - fabio.souza     - Não foi possível vincular o produto 10000510 - PEGA-MAO PLASTICO a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 16,0000.
+-----------------------------------------04/07/2017 00:52:51 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:53:26 - fabio.souza-----------------------------------------
+04/07/2017 00:53:26 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:53:27 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:53:28 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:53:28 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:53:45 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:53:45 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:53:45 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:53:45 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:53:45 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:53:45 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:53:45 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:53:45 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:54:32 - fabio.souza     - Não foi possível vincular o produto 10012317 - FLANGE DA SANITARIA DO GV a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 20,0000.
+-----------------------------------------04/07/2017 00:54:32 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:55:18 - fabio.souza-----------------------------------------
+04/07/2017 00:55:18 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:55:18 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:55:19 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:55:19 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:55:35 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:55:35 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:55:36 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:55:36 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:55:36 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:55:36 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:55:36 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:55:36 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:56:46 - fabio.souza     - Não foi possível vincular o produto 10003563 - P/BRISA INFERIOR INTEIRICO VRD PD 1200/1350 a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 1,0000.
+-----------------------------------------04/07/2017 00:56:46 - fabio.souza-----------------------------------------
+-----------------------------------------04/07/2017 00:57:50 - fabio.souza-----------------------------------------
+04/07/2017 00:57:50 - fabio.souza     - Inicio da importação do movimento de estoque.
+04/07/2017 00:57:50 - fabio.souza     - Registros temporários excluidos.
+04/07/2017 00:57:52 - fabio.souza     - Registros temporários inseridos.
+04/07/2017 00:57:52 - fabio.souza     - Inicio do processamento de movimento de estoque.
+04/07/2017 00:58:08 - fabio.souza     - Ajustes sobrepostos excluídos.
+04/07/2017 00:58:08 - fabio.souza     - Tabela Pessoa atualizada.
+04/07/2017 00:58:08 - fabio.souza     - Tabela Pessoa populada.
+04/07/2017 00:58:08 - fabio.souza     - Tabela Produto populada.
+04/07/2017 00:58:08 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+04/07/2017 00:58:08 - fabio.souza     - Tabela Estoque populada.
+04/07/2017 00:58:08 - fabio.souza     - Tabela NotaFiscalSaida populada.
+04/07/2017 00:58:08 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:59:25 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+04/07/2017 00:59:25 - fabio.souza     - Término dos vinculos de entradas e saídas.
+04/07/2017 00:59:25 - fabio.souza     - Término do processamento.
+-----------------------------------------04/07/2017 00:59:25 - fabio.souza-----------------------------------------
+-----------------------------------------06/07/2017 01:14:25 - fabio.souza-----------------------------------------
+06/07/2017 01:14:32 - fabio.souza     - Inicio da importação do movimento de estoque.
+06/07/2017 01:14:32 - fabio.souza     - Registros temporários excluidos.
+06/07/2017 01:14:32 - fabio.souza     - Registros temporários inseridos.
+06/07/2017 01:14:32 - fabio.souza     - Inicio do processamento de movimento de estoque.
+06/07/2017 01:14:32 - fabio.souza     - Ajustes sobrepostos excluídos.
+06/07/2017 01:14:32 - fabio.souza     - Tabela Pessoa atualizada.
+06/07/2017 01:14:32 - fabio.souza     - Tabela Pessoa populada.
+06/07/2017 01:14:32 - fabio.souza     - Tabela Produto populada.
+06/07/2017 01:14:32 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+06/07/2017 01:14:32 - fabio.souza     - Tabela Estoque populada.
+06/07/2017 01:14:32 - fabio.souza     - Tabela NotaFiscalSaida populada.
+06/07/2017 01:14:32 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:14:32 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:14:32 - fabio.souza     - Término dos vinculos de entradas e saídas.
+06/07/2017 01:14:32 - fabio.souza     - Término do processamento.
+-----------------------------------------06/07/2017 01:14:32 - fabio.souza-----------------------------------------
+-----------------------------------------06/07/2017 01:18:13 - fabio.souza-----------------------------------------
+06/07/2017 01:18:13 - fabio.souza     - Inicio da importação do movimento de estoque.
+06/07/2017 01:18:13 - fabio.souza     - Registros temporários excluidos.
+06/07/2017 01:18:14 - fabio.souza     - Registros temporários inseridos.
+06/07/2017 01:18:14 - fabio.souza     - Inicio do processamento de movimento de estoque.
+06/07/2017 01:18:14 - fabio.souza     - Ajustes sobrepostos excluídos.
+06/07/2017 01:18:14 - fabio.souza     - Tabela Pessoa atualizada.
+06/07/2017 01:18:14 - fabio.souza     - Tabela Pessoa populada.
+06/07/2017 01:18:14 - fabio.souza     - Tabela Produto populada.
+06/07/2017 01:18:14 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+06/07/2017 01:18:14 - fabio.souza     - Tabela Estoque populada.
+06/07/2017 01:18:14 - fabio.souza     - Tabela NotaFiscalSaida populada.
+06/07/2017 01:18:14 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:18:14 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:18:14 - fabio.souza     - Término dos vinculos de entradas e saídas.
+06/07/2017 01:18:14 - fabio.souza     - Término do processamento.
+-----------------------------------------06/07/2017 01:18:14 - fabio.souza-----------------------------------------
+-----------------------------------------06/07/2017 01:27:21 - fabio.souza-----------------------------------------
+06/07/2017 01:27:21 - fabio.souza     - Inicio da importação do movimento de estoque.
+06/07/2017 01:27:21 - fabio.souza     - Registros temporários excluidos.
+06/07/2017 01:27:21 - fabio.souza     - Registros temporários inseridos.
+06/07/2017 01:27:21 - fabio.souza     - Inicio do processamento de movimento de estoque.
+06/07/2017 01:27:21 - fabio.souza     - Ajustes sobrepostos excluídos.
+06/07/2017 01:27:21 - fabio.souza     - Tabela Pessoa atualizada.
+06/07/2017 01:27:21 - fabio.souza     - Tabela Pessoa populada.
+06/07/2017 01:27:21 - fabio.souza     - Tabela Produto populada.
+06/07/2017 01:27:21 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+06/07/2017 01:27:21 - fabio.souza     - Tabela Estoque populada.
+06/07/2017 01:27:21 - fabio.souza     - Tabela NotaFiscalSaida populada.
+06/07/2017 01:27:22 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:27:25 - fabio.souza     - Não foi possível vincular o produto 10000021 - Produto 1 a nenhuma nota de entrada. Quantidade que não pode ser vinculada: 2,0000.
+-----------------------------------------06/07/2017 01:27:25 - fabio.souza-----------------------------------------
+-----------------------------------------06/07/2017 01:28:33 - fabio.souza-----------------------------------------
+06/07/2017 01:28:33 - fabio.souza     - Inicio da importação do movimento de estoque.
+06/07/2017 01:28:33 - fabio.souza     - Registros temporários excluidos.
+06/07/2017 01:28:33 - fabio.souza     - Registros temporários inseridos.
+06/07/2017 01:28:33 - fabio.souza     - Inicio do processamento de movimento de estoque.
+06/07/2017 01:28:33 - fabio.souza     - Ajustes sobrepostos excluídos.
+06/07/2017 01:28:33 - fabio.souza     - Tabela Pessoa atualizada.
+06/07/2017 01:28:33 - fabio.souza     - Tabela Pessoa populada.
+06/07/2017 01:28:33 - fabio.souza     - Tabela Produto populada.
+06/07/2017 01:28:33 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+06/07/2017 01:28:33 - fabio.souza     - Tabela Estoque populada.
+06/07/2017 01:28:33 - fabio.souza     - Tabela NotaFiscalSaida populada.
+06/07/2017 01:28:33 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:28:33 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+06/07/2017 01:28:33 - fabio.souza     - Término dos vinculos de entradas e saídas.
+06/07/2017 01:28:33 - fabio.souza     - Término do processamento.
+-----------------------------------------06/07/2017 01:28:33 - fabio.souza-----------------------------------------
+-----------------------------------------07/07/2017 09:59:18 - fabio.souza-----------------------------------------
+07/07/2017 09:59:22 - fabio.souza     - Inicio da importação do movimento de estoque.
+07/07/2017 09:59:22 - fabio.souza     - Registros temporários excluidos.
+07/07/2017 09:59:22 - fabio.souza     - Registros temporários inseridos.
+07/07/2017 09:59:22 - fabio.souza     - Inicio do processamento de movimento de estoque.
+07/07/2017 09:59:22 - fabio.souza     - Ajustes sobrepostos excluídos.
+07/07/2017 09:59:22 - fabio.souza     - Tabela Pessoa atualizada.
+07/07/2017 09:59:23 - fabio.souza     - Tabela Pessoa populada.
+07/07/2017 09:59:23 - fabio.souza     - Tabela Produto populada.
+07/07/2017 09:59:23 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+07/07/2017 09:59:23 - fabio.souza     - Tabela Estoque populada.
+07/07/2017 09:59:23 - fabio.souza     - Tabela NotaFiscalSaida populada.
+07/07/2017 09:59:23 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+07/07/2017 09:59:23 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+07/07/2017 09:59:23 - fabio.souza     - Término dos vinculos de entradas e saídas.
+07/07/2017 09:59:23 - fabio.souza     - Término do processamento.
+-----------------------------------------07/07/2017 09:59:23 - fabio.souza-----------------------------------------
+-----------------------------------------07/07/2017 16:49:47 - fabio.souza-----------------------------------------
+07/07/2017 16:50:16 - fabio.souza     - Inicio da importação do movimento de estoque.
+07/07/2017 16:50:25 - fabio.souza     - Registros temporários excluidos.
+07/07/2017 16:50:25 - fabio.souza     - Registros temporários inseridos.
+07/07/2017 16:50:25 - fabio.souza     - Inicio do processamento de movimento de estoque.
+07/07/2017 16:50:25 - fabio.souza     - Ajustes sobrepostos excluídos.
+07/07/2017 16:50:25 - fabio.souza     - Tabela Pessoa atualizada.
+07/07/2017 16:50:25 - fabio.souza     - Tabela Pessoa populada.
+07/07/2017 16:50:25 - fabio.souza     - Tabela Produto populada.
+07/07/2017 16:50:25 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+07/07/2017 16:50:25 - fabio.souza     - Tabela Estoque populada.
+07/07/2017 16:50:25 - fabio.souza     - Tabela NotaFiscalSaida populada.
+07/07/2017 16:50:25 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+07/07/2017 16:50:25 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+07/07/2017 16:50:25 - fabio.souza     - Término dos vinculos de entradas e saídas.
+07/07/2017 16:50:25 - fabio.souza     - Término do processamento.
+-----------------------------------------07/07/2017 16:50:25 - fabio.souza-----------------------------------------
+-----------------------------------------07/07/2017 16:54:20 - fabio.souza-----------------------------------------
+07/07/2017 16:54:21 - fabio.souza     - Inicio da importação do movimento de estoque.
+07/07/2017 16:57:26 - fabio.souza     - Registros temporários excluidos.
+07/07/2017 16:57:27 - fabio.souza     - Registros temporários inseridos.
+07/07/2017 16:57:27 - fabio.souza     - Inicio do processamento de movimento de estoque.
+07/07/2017 16:57:27 - fabio.souza     - Ajustes sobrepostos excluídos.
+07/07/2017 16:57:27 - fabio.souza     - Tabela Pessoa atualizada.
+07/07/2017 16:57:27 - fabio.souza     - Tabela Pessoa populada.
+07/07/2017 16:57:27 - fabio.souza     - Tabela Produto populada.
+07/07/2017 16:57:27 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+07/07/2017 16:57:27 - fabio.souza     - Tabela Estoque populada.
+07/07/2017 16:57:27 - fabio.souza     - Tabela NotaFiscalSaida populada.
+07/07/2017 16:57:27 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+07/07/2017 16:57:27 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+07/07/2017 16:57:27 - fabio.souza     - Término dos vinculos de entradas e saídas.
+07/07/2017 16:57:27 - fabio.souza     - Término do processamento.
+-----------------------------------------07/07/2017 16:57:27 - fabio.souza-----------------------------------------

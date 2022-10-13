@@ -1,0 +1,74 @@
+-----------------------------------------30/9/2013 15:04:11 - reginaldo.dourado-----------------------------------------
+30/9/2013 15:04:11 - reginaldo.dourado - Inicio da importação do movimento de estoque.
+30/9/2013 15:04:11 - reginaldo.dourado - Registros temporários excluidos.
+30/9/2013 15:04:14 - reginaldo.dourado - Registros temporários inseridos.
+30/9/2013 15:04:14 - reginaldo.dourado - Inicio do processamento de movimento de estoque.
+30/9/2013 15:04:27 - reginaldo.dourado - Ajustes sobrepostos excluídos.
+30/9/2013 15:04:27 - reginaldo.dourado - Tabela Pessoa populada.
+30/9/2013 15:04:28 - reginaldo.dourado - Tabela Produto populada.
+30/9/2013 15:04:28 - reginaldo.dourado - Tabela NotaFiscalEntrada populada.
+30/9/2013 15:04:29 - reginaldo.dourado - Tabela Estoque populada.
+30/9/2013 15:04:29 - reginaldo.dourado - Tabela NotaFiscalSaida populada.
+30/9/2013 15:04:29 - reginaldo.dourado - Inicio da vinculação das notas fiscais de entrada e saída.
+30/9/2013 15:06:07 - reginaldo.dourado - Término da vinculação das notas fiscais de entrada e saída.
+30/9/2013 15:06:07 - reginaldo.dourado - Término do processamento.
+-----------------------------------------30/9/2013 15:06:07 - reginaldo.dourado-----------------------------------------
+-----------------------------------------30/9/2013 17:29:53 - fabio.souza-----------------------------------------
+30/9/2013 17:29:53 - fabio.souza     - Inicio da importação do movimento de estoque.
+30/9/2013 17:29:53 - fabio.souza     - Registros temporários excluidos.
+30/9/2013 17:29:56 - fabio.souza     - Registros temporários inseridos.
+30/9/2013 17:29:56 - fabio.souza     - Inicio do processamento de movimento de estoque.
+30/9/2013 17:30:13 - fabio.souza     - Ajustes sobrepostos excluídos.
+30/9/2013 17:30:13 - fabio.souza     - Tabela Pessoa populada.
+30/9/2013 17:30:13 - fabio.souza     - Tabela Produto populada.
+30/9/2013 17:30:14 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+30/9/2013 17:30:14 - fabio.souza     - Tabela Estoque populada.
+30/9/2013 17:30:14 - fabio.souza     - Tabela NotaFiscalSaida populada.
+30/9/2013 17:30:14 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+30/9/2013 17:31:42 - fabio.souza     - Término da vinculação das notas fiscais de entrada e saída.
+30/9/2013 17:31:42 - fabio.souza     - Término do processamento.
+-----------------------------------------30/9/2013 17:31:42 - fabio.souza-----------------------------------------
+-----------------------------------------30/9/2013 21:16:02 - luiz.macohin-----------------------------------------
+30/9/2013 21:16:02 - luiz.macohin    - Inicio da importação do movimento de estoque.
+30/9/2013 21:16:02 - luiz.macohin    - Registros temporários excluidos.
+30/9/2013 21:16:04 - luiz.macohin    - Registros temporários inseridos.
+30/9/2013 21:16:04 - luiz.macohin    - Inicio do processamento de movimento de estoque.
+30/9/2013 21:16:16 - luiz.macohin    - Ajustes sobrepostos excluídos.
+30/9/2013 21:16:17 - luiz.macohin    - Tabela Pessoa populada.
+30/9/2013 21:16:17 - luiz.macohin    - Tabela Produto populada.
+30/9/2013 21:16:17 - luiz.macohin    - Tabela NotaFiscalEntrada populada.
+30/9/2013 21:16:17 - luiz.macohin    - Tabela Estoque populada.
+30/9/2013 21:16:18 - luiz.macohin    - Tabela NotaFiscalSaida populada.
+30/9/2013 21:16:18 - luiz.macohin    - Inicio da vinculação das notas fiscais de entrada e saída.
+30/9/2013 21:17:43 - luiz.macohin    - Término da vinculação das notas fiscais de entrada e saída.
+30/9/2013 21:17:43 - luiz.macohin    - Término do processamento.
+-----------------------------------------30/9/2013 21:17:43 - luiz.macohin-----------------------------------------
+-----------------------------------------2/10/2013 09:47:42 - reginaldo.dourado-----------------------------------------
+2/10/2013 09:47:43 - reginaldo.dourado - Inicio da importação do movimento de estoque.
+2/10/2013 09:47:43 - reginaldo.dourado - Registros temporários excluidos.
+2/10/2013 09:47:45 - reginaldo.dourado - Registros temporários inseridos.
+2/10/2013 09:47:45 - reginaldo.dourado - Inicio do processamento de movimento de estoque.
+2/10/2013 09:48:03 - reginaldo.dourado - Ajustes sobrepostos excluídos.
+2/10/2013 09:48:04 - reginaldo.dourado - Tabela Pessoa populada.
+2/10/2013 09:48:04 - reginaldo.dourado - Tabela Produto populada.
+2/10/2013 09:48:04 - reginaldo.dourado - Tabela NotaFiscalEntrada populada.
+2/10/2013 09:48:04 - reginaldo.dourado - Tabela Estoque populada.
+2/10/2013 09:48:04 - reginaldo.dourado - Tabela NotaFiscalSaida populada.
+2/10/2013 09:48:04 - reginaldo.dourado - Inicio da vinculação das notas fiscais de entrada e saída.
+2/10/2013 09:49:23 - reginaldo.dourado - Término da vinculação das notas fiscais de entrada e saída.
+2/10/2013 09:49:23 - reginaldo.dourado - Término do processamento.
+-----------------------------------------2/10/2013 09:49:23 - reginaldo.dourado-----------------------------------------
+-----------------------------------------2/10/2013 21:26:17 - fabio.souza-----------------------------------------
+2/10/2013 21:26:17 - fabio.souza     - Inicio da importação do movimento de estoque.
+2/10/2013 21:26:17 - fabio.souza     - Registros temporários excluidos.
+2/10/2013 21:26:25 - fabio.souza     - Registros temporários inseridos.
+2/10/2013 21:26:25 - fabio.souza     - Inicio do processamento de movimento de estoque.
+2/10/2013 21:26:25 - fabio.souza     - Ajustes sobrepostos excluídos.
+2/10/2013 21:26:26 - fabio.souza     - Tabela Pessoa populada.
+2/10/2013 21:26:26 - fabio.souza     - Tabela Produto populada.
+2/10/2013 21:26:26 - fabio.souza     - Tabela NotaFiscalEntrada populada.
+2/10/2013 21:26:26 - fabio.souza     - Tabela Estoque populada.
+2/10/2013 21:26:26 - fabio.souza     - Tabela NotaFiscalSaida populada.
+2/10/2013 21:26:26 - fabio.souza     - Inicio da vinculação das notas fiscais de entrada e saída.
+2/10/2013 21:26:26 - fabio.souza     - Erro ao importar o arquivo.
+-----------------------------------------2/10/2013 21:26:26 - fabio.souza-----------------------------------------

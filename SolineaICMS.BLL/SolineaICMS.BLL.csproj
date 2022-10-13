@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B69477CD-4159-46BD-A06E-099A693317C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SolineaICMS.BLL</RootNamespace>
+    <AssemblyName>SolineaICMS.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bllImportarMovimentoEstoque.cs" />
+    <Compile Include="bllUsuario.cs" />
+    <Compile Include="bllRegistrosImportadosMovimentoEstoque.cs" />
+    <Compile Include="bllPessoa.cs" />
+    <Compile Include="bllProduto.cs" />
+    <Compile Include="bllNotaFiscalEntrada.cs" />
+    <Compile Include="bllEstoque.cs" />
+    <Compile Include="bllNotaFiscalSaida.cs" />
+    <Compile Include="bllEstado.cs" />
+    <Compile Include="bllRegistrosImportadosSaldoEstoque.cs" />
+    <Compile Include="bllImportarSaldoEstoque.cs" />
+    <Compile Include="bllInconsistenciasEstoque.cs" />
+    <Compile Include="bllBackup.cs" />
+    <Compile Include="Relatorios\bllRelatorioIcmsRestituirPeps.cs" />
+    <Compile Include="Relatorios\bllRelatorioInconsistenciasEstoque.cs" />
+    <Compile Include="Relatorios\bllRelatorioIcmsRestituirCustoMedio.cs" />
+    <Compile Include="Relatorios\bllRelatorioIcmsRestituirResumoNotas.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SolineaICMS.DAL\SolineaICMS.DAL.csproj">
+      <Project>{5A5A84B4-6D07-49F0-8150-B0A45F5E48F7}</Project>
+      <Name>SolineaICMS.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.Interfaces\SolineaICMS.Interfaces.csproj">
+      <Project>{CE2AEED7-D50E-45FF-BE17-911F668A78E8}</Project>
+      <Name>SolineaICMS.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.Util\SolineaICMS.Util.csproj">
+      <Project>{42983B49-F613-488E-831E-0FCAA6857AC9}</Project>
+      <Name>SolineaICMS.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SolineaICMS.VO\SolineaICMS.VO.csproj">
+      <Project>{0C1138B6-D206-4882-B767-A72A8FE08680}</Project>
+      <Name>SolineaICMS.VO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
